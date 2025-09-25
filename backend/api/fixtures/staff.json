@@ -1,0 +1,29 @@
+[
+  {
+    "model": "api.staff",
+    "pk": 1,
+    "fields": {
+      "name": "Dr. Suresh",
+      "department": "Computer Science",
+      "workload_hours": 20
+    }
+  },
+  {
+    "model": "api.staff",
+    "pk": 2,
+    "fields": {
+      "name": "Ms. Anitha",
+      "department": "Mathematics",
+      "workload_hours": 15
+    }
+  },
+  {
+    "model": "api.staff",
+    "pk": 3,
+    "fields": {
+      "name": "Mr. Raj",
+      "department": "Electronics",
+      "workload_hours": 18
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "model": "api.student",
+    "pk": 1,
+    "fields": {
+      "name": "Akhil",
+      "department": "Computer Science",
+      "attendance": 92,
+      "marks": 88
+    }
+  },
+  {
+    "model": "api.student",
+    "pk": 2,
+    "fields": {
+      "name": "Meera",
+      "department": "Information Technology",
+      "attendance": 85,
+      "marks": 76
+    }
+  },
+  {
+    "model": "api.student",
+    "pk": 3,
+    "fields": {
+      "name": "Rahul",
+      "department": "Electronics",
+      "attendance": 78,
+      "marks": 69
+    }
+  },
+  {
+    "model": "api.student",
+    "pk": 4,
+    "fields": {
+      "name": "Priya",
+      "department": "Computer Science",
+      "attendance": 95,
+      "marks": 94
+    }
+  },
+  {
+    "model": "api.student",
+    "pk": 5,
+    "fields": {
+      "name": "Kavya",
+      "department": "Mathematics",
+      "attendance": 88,
+      "marks": 81
+    }
+  }
+]
